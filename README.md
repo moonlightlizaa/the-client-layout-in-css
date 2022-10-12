@@ -3,6 +3,7 @@ Welkom! Ik heb hier verschillende layouts gemaakt in CSS Grid
 In mijn Wiki kan je mijn process naar het eindresultaat helemaal volgen.
 
 # Basic Layouts
+<br>
 De Basic Layouts waren wel makkelijk om te maken nadat de eerste gelukt was! Bekijk ze hier:
 <br>
 <a href="https://moonlightlizaa.github.io/the-client-layout-in-css/basic/basic-layout-1.html">Basic Layout 1</a>
@@ -26,6 +27,7 @@ De Basic Layouts waren wel makkelijk om te maken nadat de eerste gelukt was! Bek
 <img width="593" alt="Screenshot 2022-10-12 at 10 54 31 AM" src="https://user-images.githubusercontent.com/106411511/195297755-12865e78-d0c9-4a5f-8205-430751f4cc76.png">
 
 # Advanced Layouts
+<br>
 <a href="https://moonlightlizaa.github.io/the-client-layout-in-css/advanced/advanced-layout-1.html">Basic Layout 1</a>
 <br>
 <a href="https://moonlightlizaa.github.io/the-client-layout-in-css/advanced/advanced-layout-3.html">Basic Layout 3</a>
